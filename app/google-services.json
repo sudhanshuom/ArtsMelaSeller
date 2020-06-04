@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "639616552488",
+    "firebase_url": "https://arts-mela.firebaseio.com",
+    "project_id": "arts-mela",
+    "storage_bucket": "arts-mela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639616552488:android:87fb3a7f20cefa066aef1d",
+        "android_client_info": {
+          "package_name": "com.app.artsmelaseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639616552488-h16r8ndoq8v8ukk1ssu69ut75fs4bf09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.artsmelaseller",
+            "certificate_hash": "d69d86c1031f9c9744cbe626f533b19b3f35e5b8"
+          }
+        },
+        {
+          "client_id": "639616552488-shivtdal1h4aedjdmqtarhhb2mkpe0i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUI2Dl2Ytkg3IG57Vf1g1gTvAGyBGmHxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639616552488-shivtdal1h4aedjdmqtarhhb2mkpe0i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639616552488:android:83ea85cdc55794176aef1d",
+        "android_client_info": {
+          "package_name": "com.application.artsmela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639616552488-shivtdal1h4aedjdmqtarhhb2mkpe0i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUI2Dl2Ytkg3IG57Vf1g1gTvAGyBGmHxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639616552488-shivtdal1h4aedjdmqtarhhb2mkpe0i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
